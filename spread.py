@@ -8,6 +8,8 @@ from google_auth_oauthlib.flow import InstalledAppFlow
 from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
 
+import codecs
+
 scopes = ['https://www.googleapis.com/auth/spreadsheets.readonly','https://www.googleapis.com/auth/drive']
 
 range = 'A2:M'
@@ -15,8 +17,10 @@ spreadsheet_id = '1RBC1Kry379x4EbQXQbnGsrunsrC2j5RKX24MBqZtdMk'
 
 def main():
     creds = None
-    
+    action='append'
     major_dim='COLUMNS'
+    
+    filename = "result0.txt"
     
     if os.path.exists('token.json'):
         creds = Credentials.from_authorized_user_file('token.json', scopes)
@@ -29,9 +33,6 @@ def main():
             creds = flow.run_local_server(port=0)
         with open('token.json', 'w') as token:
             token.write(creds.to_json())
-
-    action='append'
-
     try:
         service = build('sheets', 'v4', credentials=creds)
 
@@ -39,7 +40,7 @@ def main():
         result = sheet.values().get(spreadsheetId=spreadsheet_id, range=range, majorDimension=major_dim).execute()
         values = result.get('values', [])
 
-        cell_values = open("parse/result.txt", "r").read().split('\n')
+        cell_values = open("parse/data/" + filename, "r").read().split('\n')
 
         for columns in values:
             if len(columns) > 0 and columns[len(columns) - 1] == cell_values[5]:
@@ -48,14 +49,19 @@ def main():
     except HttpError as err:
         print(err)
 
-    
-    update_values(spreadsheet_id, range, "USER_ENTERED", creds, action)
+    y = 0
+    while y < 16:
+        update_values(spreadsheet_id, range, "USER_ENTERED", creds, action, "result" + str(y) + ".txt")
+        y += 1
 
-def update_values(spreadsheet_id, range_name, value_input_option, creds, action):
+
+def update_values(spreadsheet_id, range_name, value_input_option, creds, action, filename):
+    
+
     try:
 
         service = build('sheets', 'v4', credentials=creds)
-        cell_values = open("parse/result.txt", "r").read().split('\n')
+        cell_values = codecs.open("parse/data/" + filename, "r", encoding='utf-8').read().split('\n')
 
         values = [cell_values]
 
