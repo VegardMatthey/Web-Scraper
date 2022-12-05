@@ -6,12 +6,13 @@ use std::io::prelude::*;
 use std::io::BufReader;
 
 fn main() {
-    for x in 0..16 {
-        parse(x).expect("failed");
+    let emails: u16 = 25;
+    for x in 0..emails {
+        parse(x, emails).expect("failed");
     }
 }
 
-fn parse(index: u16) -> std::io::Result<()> {
+fn parse(index: u16, emails: u16) -> std::io::Result<()> {
     let mut file = File::open(
         r"C:\Users\matth\repo\web\parse\data\html".to_owned() + &(index.to_string())[..] + ".txt",
     )?;
@@ -28,7 +29,7 @@ fn parse(index: u16) -> std::io::Result<()> {
     let date = Regex::new(r"(?m)Sent.(.*M)").unwrap();
     let purpose = "\n";
     //let title = Regex::new(r#"(?m)Email Campaigns[\s]*</a>[\s]*</li>[\s]*<li class="sage-breadcrumbs__item">[\s]*<a href="" class="[\s]*sage-breadcrumbs__link[\s]*sage-breadcrumbs__link--current[\s]*" aria-disabled="true">[\s]*(.*)[\s]*</a>"#).unwrap();
-    let title = Regex::new(r"(?m)Close[\s]*(.*)[\s]*Preview.<https://app.kajabi.com/admin/email_broadcasts/\d*/preview>").unwrap();
+    let title = Regex::new(r"(?m)Close[\s]*(.*)Report[\s]*Preview.<https://app.kajabi.com/admin/email_broadcasts/\d*/preview>").unwrap();
 
     let tag = "Alle\n";
     //let opened = Regex::new(r#"(?m)<a href="https://app.kajabi.com/admin/email_broadcasts/\d*/report\?by_event_type=opened">Opened</a>[\S\s]*Opened[\S\s]*With a recent update to mail privacy, some email clients, like[\s]*Apple, no longer report opens accurately. Focusing on clicks is a better[\s]*strategy.[\s]*</div>[\s]*<div class="sage-popover__actions">[\s]*<a href="https://help.kajabi.com/hc/en-us/articles/4407133043099" target="_blank" rel="noopener" class="[\s]*sage-btn[\s]*sage-btn--subtle[\s]*sage-btn--primary[\s]*sage-btn--icon-right-launch[\s]*">[\s]*<span class="sage-btn__truncate-text">[\s]*Learn more[\s]*</span>[\s]*</a>[\s]*</div>[\s]*</div>[\s]*</div>[\s]*</div>[\s]*<div class="sage-card__row[\s]*sage-grid-template-te[\s]*">[\s]*<p class="t-sage-heading-5">[\s]*(.*%)[\s]*<span class="t-sage-body-xsmall t-sage--color-charcoal-100">[\s]*(.* total)"#).unwrap();
@@ -40,7 +41,7 @@ fn parse(index: u16) -> std::io::Result<()> {
     //let unsubscribed = Regex::new(r#"(?m)<a href="https://help.kajabi.com/hc/en-us/articles/\d*#unsubscribed" target="_blank" rel="noopener" class="[\s]*sage-btn[\s]*sage-btn--subtle[\s]*sage-btn--primary[\s]*sage-btn--icon-right-launch[\s]*">[\s]*<span class="sage-btn__truncate-text">[\s]*Learn more[\s]*</span>[\s]*</a>[\s]*</div>[\s]*</div>[\s]*</div>[\s]*</div>[\s]*<div class="sage-card__row[\s]*sage-grid-template-te[\s]*">[\s]*<p class="t-sage-heading-5">[\s]*(.*%)"#).unwrap();
     let unsubscribed = Regex::new(r"(?m)Unsubscribed[\s]*An email address is unsubscribed when the recipient indicates they no[\s]*longer wish to receive emails from a sender.[\s]*Learn more[\s]*<https://help.kajabi.com/hc/en-us/articles/\d*#unsubscribed>[\s]*(.*%)").unwrap();
     //let sent = Regex::new(r#"(?m)<a.href="https://help.kajabi.com/hc/en-us/articles/\d*#sent".target="_blank".rel="noopener".class="[\s]*sage-btn[\s]*sage-btn--subtle[\s]*sage-btn--primary[\s]*sage-btn--icon-right-launch[\s]*">[\s]*<span.class="sage-btn__truncate-text">[\s]*Learn more[\s]*</span>[\s]*</a>[\s]*</div>[\s]*</div>[\s]*</div>[\s]*</div>[\s]*<div.class="sage-card__row[\s]*sage-grid-template-te[\s]*">[\s]*<p.class="t-sage-heading-5">[\s]*(.*)"#).unwrap();
-    let sent = Regex::new(r"(?m)Sent[\s]*This number will always be the number of contacts that you originally[\s]*intended to send an email to.[\s]*Learn more[\s]*<https://help.kajabi.com/hc/en-us/articles/\d*#sent>[\s]*(\d*,\d*)").unwrap();
+    let sent = Regex::new(r"(?m)Sent[\s]*This number will always be the number of contacts that you originally[\s]*intended to send an email to.[\s]*Learn more[\s]*<https://help.kajabi.com/hc/en-us/articles/\d*#sent>[\s]*(.*)").unwrap();
 
     let list: Vec<Regex> = vec![
         title,
@@ -85,9 +86,9 @@ fn parse(index: u16) -> std::io::Result<()> {
     buf_reader.read_to_string(&mut text)?;
 
     let caps = date.captures_iter(&text);
-    let mut i = 0;
+    i = 0;
     for mat in caps {
-        if i == index {
+        if i == emails - 1 - index {
             current = String::from(mat.get(1).map_or("", |m| m.as_str()));
             data[3] = current.to_string() + "\n";
         }

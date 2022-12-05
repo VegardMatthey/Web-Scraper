@@ -10,6 +10,8 @@ from googleapiclient.errors import HttpError
 
 import codecs
 
+emails = 25
+
 scopes = ['https://www.googleapis.com/auth/spreadsheets.readonly','https://www.googleapis.com/auth/drive']
 
 range = 'A2:M'
@@ -17,7 +19,7 @@ spreadsheet_id = '1RBC1Kry379x4EbQXQbnGsrunsrC2j5RKX24MBqZtdMk'
 
 def main():
     creds = None
-    action='append'
+    #action='append'
     major_dim='COLUMNS'
     
     filename = "result0.txt"
@@ -50,12 +52,12 @@ def main():
         print(err)
 
     y = 0
-    while y < 16:
-        update_values(spreadsheet_id, range, "USER_ENTERED", creds, action, "result" + str(y) + ".txt")
+    while y < emails:
+        update_values(spreadsheet_id, range, "USER_ENTERED", creds, "result" + str(y) + ".txt")
         y += 1
 
 
-def update_values(spreadsheet_id, range_name, value_input_option, creds, action, filename):
+def update_values(spreadsheet_id, range_name, value_input_option, creds, filename):
     
 
     try:
@@ -70,10 +72,9 @@ def update_values(spreadsheet_id, range_name, value_input_option, creds, action,
         }
                 
        
-        if action == 'append':
-            result = service.spreadsheets().values().append(spreadsheetId=spreadsheet_id, range=range_name,valueInputOption=value_input_option, body=body).execute()
-        else :
-            result = service.spreadsheets().values().update(spreadsheetId=spreadsheet_id, range=range_name, valueInputOption=value_input_option, body=body).execute()
+        result = service.spreadsheets().values().append(spreadsheetId=spreadsheet_id, range=range_name,valueInputOption=value_input_option, body=body).execute()
+        #else :
+            #result = service.spreadsheets().values().update(spreadsheetId=spreadsheet_id, range=range_name, valueInputOption=value_input_option, body=body).execute()
         
         return result
     except HttpError as error:
