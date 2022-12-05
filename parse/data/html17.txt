@@ -1,0 +1,334 @@
+/close
+
+/
+Toggle main navigation
+
+  * Email Campaigns
+    <https://app.kajabi.com/admin/sites/20457/email_campaigns>
+  * Godteritimen 🍭🍓 starter kl 20 Report
+
+Search
+
+CB
+
+  * Christine Bieker
+  * Manage account <https://app.kajabi.com/admin/settings/account>
+  * My sites <https://app.kajabi.com/admin/sites>
+  * Help & feedback <#>
+  * Kajabi University <https://app.kajabi.com/admin/university/login>
+  * Partner dashboard
+    <https://app.kajabi.com/admin/kajabi_partner_dashboard>
+  * Logout <https://app.kajabi.com/logout>
+
+/
+
+/
+
+Close Modal
+
+
+      Upgrade plan for more [feature]
+
+You’ve reached the [feature] limit for your plan. To [action] more
+[feature], upgrade your plan.
+
+More details <#>
+
+Check usage <https://app.kajabi.com/admin/settings/billing#usage> View
+plans <https://app.kajabi.com/admin/settings/billing/change_plan>
+
+View dashboard for Christine Bieker <https://app.kajabi.com/>
+
+  *
+    /
+
+    /Dashboard <https://app.kajabi.com/admin/sites/20457/dashboard>
+  *
+    /
+
+    /Products <https://app.kajabi.com/admin/sites/20457/products>
+  *
+    /
+
+    /Sales <https://app.kajabi.com/admin/sites/20457/offers>
+  *
+    /
+
+    /Website
+    <https://app.kajabi.com/admin/sites/20457/website_designs>Preview
+    website
+    /
+
+    /
+    <https://www.bieker.no/?preview_token=BAh7CDoMdXNlcl9pZEkiCjI0NTY0BjoGRUY6D2V4cGlyZXNfYXRVOiBBY3RpdmVTdXBwb3J0OjpUaW1lV2l0aFpvbmVbCEl1OglUaW1lDcCsHsAa13k4CToJem9uZUkiCFVUQwY7BkY6DW5hbm9fbnVtaQKbAjoNbmFub19kZW5pBjoNc3VibWljcm8iB2ZwSSILQmVybGluBjsGVEl1OwkNwawewBrXeTgJOwpACTsLaQKbAjsMaQY7DSIHZnA6EnN1cGVyX3VzZXJfaWQw--4d6313812c3a1fd27b3c02d77e94dcc8c69a3513>
+  *
+    /
+
+    /Marketing <https://app.kajabi.com/admin/sites/20457/email_campaigns>
+    Email Campaigns
+    <https://app.kajabi.com/admin/sites/20457/email_campaigns>Funnels
+    <https://app.kajabi.com/admin/sites/20457/pipelines>Automations
+    <https://app.kajabi.com/admin/sites/20457/automation_rules>Events
+    <https://app.kajabi.com/admin/sites/20457/events>Forms
+    <https://app.kajabi.com/admin/sites/20457/forms>
+  *
+    /
+
+    /Contacts <https://app.kajabi.com/admin/sites/20457/contacts>
+  *
+    /
+
+    /Analytics <https://app.kajabi.com/admin/sites/20457/reports>
+
+Make Money Being a Kajabi Partner
+Earn 30% lifetime commissions and prizes.
+Get Started <https://app.kajabi.com/admin/kajabi_partner_signup>
+
+  *
+    /
+
+    /Settings <https://app.kajabi.com/admin/sites/20457/settings>
+  *
+    /
+
+    / Help & Feedback <#>
+
+//
+
+
+      title title addon
+
+description
+
+View plans <https://app.kajabi.com/admin/settings/billing/change_plan>
+Check usage <https://app.kajabi.com/admin/settings/billing#usage> More
+details <#>
+Close
+
+
+  Godteritimen 🍭🍓 starter kl 20 Report
+
+Preview <https://app.kajabi.com/admin/email_broadcasts/630579/preview>
+
+
+    Sent <https://app.kajabi.com/admin/email_broadcasts/630579/report>
+
+Learn more
+
+Sent
+This number will always be the number of contacts that you originally
+intended to send an email to.
+Learn more <https://help.kajabi.com/hc/en-us/articles/360039903194#sent>
+
+5,102
+
+
+    Delivered
+    <https://app.kajabi.com/admin/email_broadcasts/630579/report?by_event_type=delivered>
+
+Learn more
+
+Delivered
+An email is considered delivered when a contact's email provider accepts
+the email.
+Learn more
+<https://help.kajabi.com/hc/en-us/articles/360039903194#delivered>
+
+97.9% 5,076 total
+
+
+    Opened
+    <https://app.kajabi.com/admin/email_broadcasts/630579/report?by_event_type=opened>
+
+How to improve
+
+Opened
+With a recent update to mail privacy, some email clients, like Apple, no
+longer report opens accurately. Focusing on clicks is a better strategy.
+Learn more <https://help.kajabi.com/hc/en-us/articles/4407133043099>
+
+21.2% 1,102 total
+
+
+    Clicked
+    <https://app.kajabi.com/admin/email_broadcasts/630579/report?by_event_type=clicked>
+
+Learn more
+
+Clicked
+An email is considered clicked when someone clicks any link inside of
+the email.
+Learn more <https://help.kajabi.com/hc/en-us/articles/360039903194#clicked>
+
+0.8% 40 total
+
+
+    Hard Bounced
+    <https://app.kajabi.com/admin/email_broadcasts/630579/report?by_event_type=bounced>
+
+Learn more
+
+Bounced
+An email is considered bounced when it is rejected by an email server,
+but not all bounces are the same.
+Learn more <https://help.kajabi.com/hc/en-us/articles/360039903194#bounced>
+
+2.1% 111 total
+
+
+    Unsubscribed
+    <https://app.kajabi.com/admin/email_broadcasts/630579/report?by_event_type=unsubscribed>
+
+Learn more
+
+Unsubscribed
+An email address is unsubscribed when the recipient indicates they no
+longer wish to receive emails from a sender.
+Learn more
+<https://help.kajabi.com/hc/en-us/articles/360039903194#unsubscribed>
+
+0.1% 5 total
+
+
+    All Recipients
+
+Displaying recipients *1 - 25* of *5076* in total
+
+Name	Email	Actions	Last Activity
+Stine <https://app.kajabi.com/admin/contacts/58314498>
+stineeriksen.86@gmail.com
+<https://app.kajabi.com/admin/contacts/58314498> 	Opened 	Mar 30, 2020
+7:48AM
+Marit <https://app.kajabi.com/admin/contacts/25569287>
+marit.vik.aareskjold@lyse.net
+<https://app.kajabi.com/admin/contacts/25569287> 	Opened 	May 1, 2020
+10:46AM
+Inger <https://app.kajabi.com/admin/contacts/25962388>
+inger123bye@gmail.com <https://app.kajabi.com/admin/contacts/25962388>
+Opened 	Apr 25, 2020 6:01AM
+Siri Fardal <https://app.kajabi.com/admin/contacts/25962551>
+siri.fardal@gmail.com <https://app.kajabi.com/admin/contacts/25962551>
+Opened 	Mar 25, 2020 7:39AM
+Gry Live <https://app.kajabi.com/admin/contacts/25568877>
+grylivegulliksen@gmail.com
+<https://app.kajabi.com/admin/contacts/25568877> 	Opened 	Mar 30, 2020
+6:36PM
+Elin Aaland <https://app.kajabi.com/admin/contacts/25959810>
+elinaaland@gmail.com <https://app.kajabi.com/admin/contacts/25959810>
+Opened 	Oct 25, 2020 1:26PM
+Inger Marie Stakvik <https://app.kajabi.com/admin/contacts/25960060>
+inger.marie.stakvik45@gmail.com
+<https://app.kajabi.com/admin/contacts/25960060> 	Opened 	Mar 26, 2020
+12:06PM
+Christine <https://app.kajabi.com/admin/contacts/25568105>
+ch-floe@online.no <https://app.kajabi.com/admin/contacts/25568105> 		Mar
+22, 2020 6:52PM
+irene <https://app.kajabi.com/admin/contacts/25568112>
+irenesunnarvik@hotmail.com
+<https://app.kajabi.com/admin/contacts/25568112> 		Mar 22, 2020 6:52PM
+Randi <https://app.kajabi.com/admin/contacts/25568669>
+randi.messenlien@yahoo.no
+<https://app.kajabi.com/admin/contacts/25568669> 		Mar 22, 2020 6:52PM
+Eli <https://app.kajabi.com/admin/contacts/25568539> 	eliny@hotmail.no
+<https://app.kajabi.com/admin/contacts/25568539> 		Mar 22, 2020 6:52PM
+Elisa <https://app.kajabi.com/admin/contacts/25568540>
+elisa.ekelund@gmail.com <https://app.kajabi.com/admin/contacts/25568540>
+		Mar 22, 2020 6:52PM
+Solfrid <https://app.kajabi.com/admin/contacts/25569070> 	sab@lyse.net
+<https://app.kajabi.com/admin/contacts/25569070> 		Mar 22, 2020 6:52PM
+Åse Elin Kolbeinsvik <https://app.kajabi.com/admin/contacts/25568012>
+bjoekolb@online.no <https://app.kajabi.com/admin/contacts/25568012>
+Opened 	Mar 24, 2020 1:26PM
+Inger <https://app.kajabi.com/admin/contacts/25568600> 	inberi@online.no
+<https://app.kajabi.com/admin/contacts/25568600> 		Mar 22, 2020 6:52PM
+Helga <https://app.kajabi.com/admin/contacts/25568405>
+helga.lundgren@gmail.com
+<https://app.kajabi.com/admin/contacts/25568405> 	Opened 	Mar 22, 2020
+6:58PM
+Gerd Elin <https://app.kajabi.com/admin/contacts/25568507>
+babernts@online.no <https://app.kajabi.com/admin/contacts/25568507> 	
+Mar 22, 2020 6:52PM
+Jeanette <https://app.kajabi.com/admin/contacts/25568341>
+jeanuru@hotmail.com <https://app.kajabi.com/admin/contacts/25568341> 	
+Mar 22, 2020 6:52PM
+Rita <https://app.kajabi.com/admin/contacts/25568672> 	riped2@online.no
+<https://app.kajabi.com/admin/contacts/25568672> 		Mar 22, 2020 6:52PM
+Bjørg <https://app.kajabi.com/admin/contacts/25568805>
+bjorg.sundseth@gmail.com
+<https://app.kajabi.com/admin/contacts/25568805> 		Mar 22, 2020 6:52PM
+Karin <https://app.kajabi.com/admin/contacts/25568952>
+kamehlum@online.no <https://app.kajabi.com/admin/contacts/25568952> 	
+Mar 22, 2020 6:52PM
+Lisen <https://app.kajabi.com/admin/contacts/25568994>
+lisen.kongsteien@gmail.com
+<https://app.kajabi.com/admin/contacts/25568994> 		Mar 22, 2020 6:52PM
+Irene Jenssen <https://app.kajabi.com/admin/contacts/25959907>
+jenssen.irene2@gmail.com
+<https://app.kajabi.com/admin/contacts/25959907> 		Mar 22, 2020 6:52PM
+Mariann <https://app.kajabi.com/admin/contacts/25959825>
+jonsenmariann@yahoo.no <https://app.kajabi.com/admin/contacts/25959825>
+Opened 	Mar 22, 2020 6:55PM
+Sølvi <https://app.kajabi.com/admin/contacts/25959844>
+sol.knudsen@gmail.com <https://app.kajabi.com/admin/contacts/25959844>
+Opened 	Mar 23, 2020 10:05PM
+
+Previous <#> Next
+<https://app.kajabi.com/admin/email_broadcasts/630579/report?page=2>
+
+
+  We’re here to help
+
+
+    Have a question?
+
+Get instant answers for common topics in our Help Center.
+
+Visit Help Center <https://kaja.bi/help-center>
+
+
+  Contact Support
+
+If you are unable to find the answers you need feel free to reach out.
+
+Send us an email <https://kaja.bi/support>
+
+
+  Join a live webinar
+
+We offer daily educational and Q&A sessions that can help you master Kajabi.
+
+View schedule
+<https://kaja.bi/kajabisolutionswebinar?kjbuaid=19216&kjbue=christine.bieker%40gmail.com&kjbun=Christine+Bieker>
+
+
+  Live chat
+
+We‘re here for you, whenever you need us. Start a live chat with our
+team anytime.
+
+Live Chat <#>
+
+
+  Get more with Kajabi Access
+
+Access offers new resources, exclusive services, and one-on-one guidance.
+
+Learn more <https://app.kajabi.com/admin/settings/billing>
+
+
+  // Help us improve Kajabi
+
+We’re always working to make Kajabi exactly what you need for your
+business. Tell us what features you love, or what features we could
+improve to enhance your experience.
+
+Share your feedback <#>
+
+/done/
+/done/
+/done/
+/done/
+
+Loading...
+
+/done/

@@ -5,17 +5,27 @@ use std::fs::File;
 use std::io::prelude::*;
 use std::io::BufReader;
 
-fn main() {
+fn main() -> std::io::Result<()> {
     let emails: u16 = 25;
+    let data_path = r"C:\Users\matth\repo\web\parse\data\";
+
     for x in 0..emails {
-        parse(x, emails).expect("failed");
+        let file = File::open(data_path.to_owned() + "html" + &(x.to_string())[..] + ".txt")?;
+        let result_file =
+            File::create(data_path.to_owned() + "result" + &(x.to_string())[..] + ".txt")?;
+        let overview = File::open(data_path.to_owned() + "overview.txt")?;
+        parse(x, emails, file, result_file, overview).expect("failed");
     }
+    Ok(())
 }
 
-fn parse(index: u16, emails: u16) -> std::io::Result<()> {
-    let mut file = File::open(
-        r"C:\Users\matth\repo\web\parse\data\html".to_owned() + &(index.to_string())[..] + ".txt",
-    )?;
+fn parse(
+    index: u16,
+    emails: u16,
+    file: File,
+    mut result_file: File,
+    overview: File,
+) -> std::io::Result<()> {
     let mut buf_reader = BufReader::new(file);
     let mut text = String::new();
     buf_reader.read_to_string(&mut text)?;
@@ -53,10 +63,6 @@ fn parse(index: u16, emails: u16) -> std::io::Result<()> {
         sent,
     ];
 
-    let mut result_file = File::create(
-        r"C:\Users\matth\repo\web\parse\data\result".to_owned() + &(index.to_string())[..] + ".txt",
-    )?;
-
     let mut current: String;
 
     let mut data: Vec<String> = Vec::new();
@@ -81,8 +87,7 @@ fn parse(index: u16, emails: u16) -> std::io::Result<()> {
         i += 1;
     }
 
-    file = File::open(r"C:\Users\matth\repo\web\parse\data\overview.txt")?;
-    buf_reader = BufReader::new(file);
+    buf_reader = BufReader::new(overview);
     buf_reader.read_to_string(&mut text)?;
 
     let caps = date.captures_iter(&text);

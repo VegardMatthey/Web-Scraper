@@ -1,0 +1,271 @@
+/close
+
+/
+Toggle main navigation
+
+  * Email Campaigns
+    <https://app.kajabi.com/admin/sites/20457/email_campaigns>
+  * [SS123] Nå starter vi - Modul 1! Report
+
+Search
+
+CB
+
+  * Christine Bieker
+  * Manage account <https://app.kajabi.com/admin/settings/account>
+  * My sites <https://app.kajabi.com/admin/sites>
+  * Help & feedback <#>
+  * Kajabi University <https://app.kajabi.com/admin/university/login>
+  * Partner dashboard
+    <https://app.kajabi.com/admin/kajabi_partner_dashboard>
+  * Logout <https://app.kajabi.com/logout>
+
+/
+
+/
+
+Close Modal
+
+
+      Upgrade plan for more [feature]
+
+You’ve reached the [feature] limit for your plan. To [action] more
+[feature], upgrade your plan.
+
+More details <#>
+
+Check usage <https://app.kajabi.com/admin/settings/billing#usage> View
+plans <https://app.kajabi.com/admin/settings/billing/change_plan>
+
+View dashboard for Christine Bieker <https://app.kajabi.com/>
+
+  *
+    /
+
+    /Dashboard <https://app.kajabi.com/admin/sites/20457/dashboard>
+  *
+    /
+
+    /Products <https://app.kajabi.com/admin/sites/20457/products>
+  *
+    /
+
+    /Sales <https://app.kajabi.com/admin/sites/20457/offers>
+  *
+    /
+
+    /Website
+    <https://app.kajabi.com/admin/sites/20457/website_designs>Preview
+    website
+    /
+
+    /
+    <https://www.bieker.no/?preview_token=BAh7CDoMdXNlcl9pZEkiCjI0NTY0BjoGRUY6D2V4cGlyZXNfYXRVOiBBY3RpdmVTdXBwb3J0OjpUaW1lV2l0aFpvbmVbCEl1OglUaW1lDcCsHsAkt5g6CToJem9uZUkiCFVUQwY7BkY6DW5hbm9fbnVtaQISAjoNbmFub19kZW5pBjoNc3VibWljcm8iBlNJIgtCZXJsaW4GOwZUSXU7CQ3BrB7AJLeYOgk7CkAJOwtpAhICOwxpBjsNIgZTOhJzdXBlcl91c2VyX2lkMA%3D%3D--3bf6ef59661523a38146144039500e4e75a47024>
+  *
+    /
+
+    /Marketing <https://app.kajabi.com/admin/sites/20457/email_campaigns>
+    Email Campaigns
+    <https://app.kajabi.com/admin/sites/20457/email_campaigns>Funnels
+    <https://app.kajabi.com/admin/sites/20457/pipelines>Automations
+    <https://app.kajabi.com/admin/sites/20457/automation_rules>Events
+    <https://app.kajabi.com/admin/sites/20457/events>Forms
+    <https://app.kajabi.com/admin/sites/20457/forms>
+  *
+    /
+
+    /Contacts <https://app.kajabi.com/admin/sites/20457/contacts>
+  *
+    /
+
+    /Analytics <https://app.kajabi.com/admin/sites/20457/reports>
+
+Make Money Being a Kajabi Partner
+Earn 30% lifetime commissions and prizes.
+Get Started <https://app.kajabi.com/admin/kajabi_partner_signup>
+
+  *
+    /
+
+    /Settings <https://app.kajabi.com/admin/sites/20457/settings>
+  *
+    /
+
+    / Help & Feedback <#>
+
+//
+
+
+      title title addon
+
+description
+
+View plans <https://app.kajabi.com/admin/settings/billing/change_plan>
+Check usage <https://app.kajabi.com/admin/settings/billing#usage> More
+details <#>
+Close
+
+
+  [SS123] Nå starter vi - Modul 1! Report
+
+Preview <https://app.kajabi.com/admin/email_broadcasts/631896/preview>
+
+
+    Sent <https://app.kajabi.com/admin/email_broadcasts/631896/report>
+
+Learn more
+
+Sent
+This number will always be the number of contacts that you originally
+intended to send an email to.
+Learn more <https://help.kajabi.com/hc/en-us/articles/360039903194#sent>
+
+6
+
+
+    Delivered
+    <https://app.kajabi.com/admin/email_broadcasts/631896/report?by_event_type=delivered>
+
+Learn more
+
+Delivered
+An email is considered delivered when a contact's email provider accepts
+the email.
+Learn more
+<https://help.kajabi.com/hc/en-us/articles/360039903194#delivered>
+
+100.0% 6 total
+
+
+    Opened
+    <https://app.kajabi.com/admin/email_broadcasts/631896/report?by_event_type=opened>
+
+How to improve
+
+Opened
+With a recent update to mail privacy, some email clients, like Apple, no
+longer report opens accurately. Focusing on clicks is a better strategy.
+Learn more <https://help.kajabi.com/hc/en-us/articles/4407133043099>
+
+50.0% 3 total
+
+
+    Clicked
+    <https://app.kajabi.com/admin/email_broadcasts/631896/report?by_event_type=clicked>
+
+Learn more
+
+Clicked
+An email is considered clicked when someone clicks any link inside of
+the email.
+Learn more <https://help.kajabi.com/hc/en-us/articles/360039903194#clicked>
+
+16.7% 1 total
+
+
+    Hard Bounced
+    <https://app.kajabi.com/admin/email_broadcasts/631896/report?by_event_type=bounced>
+
+Learn more
+
+Bounced
+An email is considered bounced when it is rejected by an email server,
+but not all bounces are the same.
+Learn more <https://help.kajabi.com/hc/en-us/articles/360039903194#bounced>
+
+0.0% 0 total
+
+
+    Unsubscribed
+    <https://app.kajabi.com/admin/email_broadcasts/631896/report?by_event_type=unsubscribed>
+
+Learn more
+
+Unsubscribed
+An email address is unsubscribed when the recipient indicates they no
+longer wish to receive emails from a sender.
+Learn more
+<https://help.kajabi.com/hc/en-us/articles/360039903194#unsubscribed>
+
+0.0% 0 total
+
+
+    All Recipients
+
+Displaying *all 6* recipients
+
+Name	Email	Actions	Last Activity
+Christine Gratis1 Bieker [Deleted Contact]
+christine.bieker+gratis1@gmail.com 	Opened 	Mar 23, 2020 11:29AM
+Thierry matthey+kajabi@gmail.com
+<https://app.kajabi.com/admin/contacts/6606534> 	matthey@gmail.com
+<https://app.kajabi.com/admin/contacts/6606534> 		Mar 23, 2020 11:28AM
+Sidsel Espe <https://app.kajabi.com/admin/contacts/15933415>
+puffen39@hotmail.com <https://app.kajabi.com/admin/contacts/15933415>
+Opened Clicked 	Mar 23, 2020 4:45PM
+Heidi-Maria Rask Arnesen
+<https://app.kajabi.com/admin/contacts/20544736> 	heidimra@gmail.com
+<https://app.kajabi.com/admin/contacts/20544736> 	Opened 	Mar 23, 2020
+6:12PM
+Anne Spendrup Erichsen <https://app.kajabi.com/admin/contacts/25961868>
+annespendrup@icloud.com <https://app.kajabi.com/admin/contacts/25961868>
+		Mar 23, 2020 11:29AM
+Christine Bieker [Deleted Contact] 	chbi@equinor.com 		Mar 23, 2020 11:28AM
+
+
+  We’re here to help
+
+
+    Have a question?
+
+Get instant answers for common topics in our Help Center.
+
+Visit Help Center <https://kaja.bi/help-center>
+
+
+  Contact Support
+
+If you are unable to find the answers you need feel free to reach out.
+
+Send us an email <https://kaja.bi/support>
+
+
+  Join a live webinar
+
+We offer daily educational and Q&A sessions that can help you master Kajabi.
+
+View schedule
+<https://kaja.bi/kajabisolutionswebinar?kjbuaid=19216&kjbue=christine.bieker%40gmail.com&kjbun=Christine+Bieker>
+
+
+  Live chat
+
+We‘re here for you, whenever you need us. Start a live chat with our
+team anytime.
+
+Live Chat <#>
+
+
+  Get more with Kajabi Access
+
+Access offers new resources, exclusive services, and one-on-one guidance.
+
+Learn more <https://app.kajabi.com/admin/settings/billing>
+
+
+  // Help us improve Kajabi
+
+We’re always working to make Kajabi exactly what you need for your
+business. Tell us what features you love, or what features we could
+improve to enhance your experience.
+
+Share your feedback <#>
+
+/done/
+/done/
+/done/
+/done/
+
+Loading...
+
+/done/

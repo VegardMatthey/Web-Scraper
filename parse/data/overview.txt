@@ -1,0 +1,1064 @@
+/close
+
+/
+Toggle main navigation
+Search
+
+CB
+
+  * Christine Bieker
+  * Manage account <https://app.kajabi.com/admin/settings/account>
+  * My sites <https://app.kajabi.com/admin/sites>
+  * Help & feedback <#>
+  * Kajabi University <https://app.kajabi.com/admin/university/login>
+  * Partner dashboard
+    <https://app.kajabi.com/admin/kajabi_partner_dashboard>
+  * Logout <https://app.kajabi.com/logout>
+
+/
+
+/
+
+Close Modal
+
+
+      Upgrade plan for more [feature]
+
+You’ve reached the [feature] limit for your plan. To [action] more
+[feature], upgrade your plan.
+
+More details <#>
+
+Check usage <https://app.kajabi.com/admin/settings/billing#usage> View
+plans <https://app.kajabi.com/admin/settings/billing/change_plan>
+
+View dashboard for Christine Bieker <https://app.kajabi.com/>
+
+  *
+    /
+
+    /Dashboard <https://app.kajabi.com/admin/sites/20457/dashboard>
+  *
+    /
+
+    /Products <https://app.kajabi.com/admin/sites/20457/products>
+  *
+    /
+
+    /Sales <https://app.kajabi.com/admin/sites/20457/offers>
+  *
+    /
+
+    /Website
+    <https://app.kajabi.com/admin/sites/20457/website_designs>Preview
+    website
+    /
+
+    /
+    <https://www.bieker.no/?preview_token=BAh7CDoMdXNlcl9pZEkiCjI0NTY0BjoGRUY6D2V4cGlyZXNfYXRVOiBBY3RpdmVTdXBwb3J0OjpUaW1lV2l0aFpvbmVbCEl1OglUaW1lDcCsHsBogmcqCToJem9uZUkiCFVUQwY7BkY6DW5hbm9fbnVtaQKiAjoNbmFub19kZW5pBjoNc3VibWljcm8iB2dASSILQmVybGluBjsGVEl1OwkNwawewGiCZyoJOwpACTsLaQKiAjsMaQY7DSIHZ0A6EnN1cGVyX3VzZXJfaWQw--5b1a7056b0ece484c43f021c8ea18538a5e8542f>
+  *
+    /
+
+    /Marketing <https://app.kajabi.com/admin/sites/20457/email_campaigns>
+    Email Campaigns
+    <https://app.kajabi.com/admin/sites/20457/email_campaigns>Funnels
+    <https://app.kajabi.com/admin/sites/20457/pipelines>Automations
+    <https://app.kajabi.com/admin/sites/20457/automation_rules>Events
+    <https://app.kajabi.com/admin/sites/20457/events>Forms
+    <https://app.kajabi.com/admin/sites/20457/forms>
+  *
+    /
+
+    /Contacts <https://app.kajabi.com/admin/sites/20457/contacts>
+  *
+    /
+
+    /Analytics <https://app.kajabi.com/admin/sites/20457/reports>
+
+Make Money Being a Kajabi Partner
+Earn 30% lifetime commissions and prizes.
+Get Started <https://app.kajabi.com/admin/kajabi_partner_signup>
+
+  *
+    /
+
+    /Settings <https://app.kajabi.com/admin/sites/20457/settings>
+  *
+    /
+
+    / Help & Feedback <#>
+
+//
+
+
+      title title addon
+
+description
+
+View plans <https://app.kajabi.com/admin/settings/billing/change_plan>
+Check usage <https://app.kajabi.com/admin/settings/billing#usage> More
+details <#>
+Close
+
+
+  Email Campaigns
+
+Email Campaigns Help
+<https://help.kajabi.com/hc/en-us/articles/360036990014>
+Manage Templates
+<https://app.kajabi.com/admin/sites/20457/marketing_email_templates>
+New Email Campaign
+
+All <https://app.kajabi.com/admin/sites/20457/email_campaigns> Draft
+<https://app.kajabi.com/admin/sites/20457/email_campaigns?by_status=draft> Scheduled <https://app.kajabi.com/admin/sites/20457/email_campaigns?by_status=scheduled> Sent <https://app.kajabi.com/admin/sites/20457/email_campaigns?by_status=sent> Sequence <https://app.kajabi.com/admin/sites/20457/email_campaigns?by_status=ongoing>
+
+Clear Search
+
+  *
+    /
+
+    /
+    [SS123] Nå starter vi - Modul 1!
+    <https://app.kajabi.com/admin/email_broadcasts/637975/report>
+
+    Sent March 25, 2020 07:48PM
+
+        1 
+    Sends
+        100% 
+    Opened
+    Learn more
+
+    Opened
+
+    With a recent update to mail privacy, some email clients, like
+    Apple, no longer report opens accurately. Focusing on clicks is a
+    better strategy.
+
+    Learn more <https://help.kajabi.com/hc/en-us/articles/4407133043099>
+        100% 
+    Clicked
+        0% 
+    Unsubscribed
+
+    Options
+      o Report
+        <https://app.kajabi.com/admin/email_broadcasts/637975/report>
+      o Duplicate
+        <https://app.kajabi.com/admin/email_broadcasts/637975/clone>
+      o Delete <https://app.kajabi.com/admin/email_broadcasts/637975>
+  *
+    /
+
+    /
+    stenger ved midnatt
+    <https://app.kajabi.com/admin/email_broadcasts/635411/report>
+
+    Sent March 24, 2020 09:00PM
+
+        5,148 
+    Sends
+        32% 
+    Opened
+    Learn more
+
+    Opened
+
+    With a recent update to mail privacy, some email clients, like
+    Apple, no longer report opens accurately. Focusing on clicks is a
+    better strategy.
+
+    Learn more <https://help.kajabi.com/hc/en-us/articles/4407133043099>
+        3% 
+    Clicked
+        1% 
+    Unsubscribed
+
+    Options
+      o Report
+        <https://app.kajabi.com/admin/email_broadcasts/635411/report>
+      o Duplicate
+        <https://app.kajabi.com/admin/email_broadcasts/635411/clone>
+      o Delete <https://app.kajabi.com/admin/email_broadcasts/635411>
+  *
+    /
+
+    /
+    Er det din tur nå?
+    <https://app.kajabi.com/admin/email_broadcasts/632876/report>
+
+    Sent March 24, 2020 05:59PM
+
+        5,156 
+    Sends
+        22% 
+    Opened
+    Learn more
+
+    Opened
+
+    With a recent update to mail privacy, some email clients, like
+    Apple, no longer report opens accurately. Focusing on clicks is a
+    better strategy.
+
+    Learn more <https://help.kajabi.com/hc/en-us/articles/4407133043099>
+        0% 
+    Clicked
+        0% 
+    Unsubscribed
+
+    Options
+      o Report
+        <https://app.kajabi.com/admin/email_broadcasts/632876/report>
+      o Duplicate
+        <https://app.kajabi.com/admin/email_broadcasts/632876/clone>
+      o Delete <https://app.kajabi.com/admin/email_broadcasts/632876>
+  *
+    /
+
+    /
+    Når dette er over...
+    <https://app.kajabi.com/admin/email_broadcasts/632369/report>
+
+    Sent March 23, 2020 07:45PM
+
+        5,167 
+    Sends
+        23% 
+    Opened
+    Learn more
+
+    Opened
+
+    With a recent update to mail privacy, some email clients, like
+    Apple, no longer report opens accurately. Focusing on clicks is a
+    better strategy.
+
+    Learn more <https://help.kajabi.com/hc/en-us/articles/4407133043099>
+        1% 
+    Clicked
+        0% 
+    Unsubscribed
+
+    Options
+      o Report
+        <https://app.kajabi.com/admin/email_broadcasts/632369/report>
+      o Duplicate
+        <https://app.kajabi.com/admin/email_broadcasts/632369/clone>
+      o Delete <https://app.kajabi.com/admin/email_broadcasts/632369>
+  *
+    /
+
+    /
+    [SS123] Nå starter vi - Modul 1!
+    <https://app.kajabi.com/admin/email_broadcasts/631896/report>
+
+    Sent March 23, 2020 11:28AM
+
+        6 
+    Sends
+        50% 
+    Opened
+    Learn more
+
+    Opened
+
+    With a recent update to mail privacy, some email clients, like
+    Apple, no longer report opens accurately. Focusing on clicks is a
+    better strategy.
+
+    Learn more <https://help.kajabi.com/hc/en-us/articles/4407133043099>
+        17% 
+    Clicked
+        0% 
+    Unsubscribed
+
+    Options
+      o Report
+        <https://app.kajabi.com/admin/email_broadcasts/631896/report>
+      o Duplicate
+        <https://app.kajabi.com/admin/email_broadcasts/631896/clone>
+      o Delete <https://app.kajabi.com/admin/email_broadcasts/631896>
+  *
+    /
+
+    /
+    Er du med videre?
+    <https://app.kajabi.com/admin/email_broadcasts/630955/report>
+
+    Sent March 22, 2020 09:20PM
+
+        29 
+    Sends
+        55% 
+    Opened
+    Learn more
+
+    Opened
+
+    With a recent update to mail privacy, some email clients, like
+    Apple, no longer report opens accurately. Focusing on clicks is a
+    better strategy.
+
+    Learn more <https://help.kajabi.com/hc/en-us/articles/4407133043099>
+        7% 
+    Clicked
+        0% 
+    Unsubscribed
+
+    Options
+      o Report
+        <https://app.kajabi.com/admin/email_broadcasts/630955/report>
+      o Duplicate
+        <https://app.kajabi.com/admin/email_broadcasts/630955/clone>
+      o Delete <https://app.kajabi.com/admin/email_broadcasts/630955>
+  *
+    /
+
+    /
+    hva gjør du nå?
+    <https://app.kajabi.com/admin/email_broadcasts/630662/report>
+
+    Sent March 22, 2020 07:46PM
+
+        28 
+    Sends
+        50% 
+    Opened
+    Learn more
+
+    Opened
+
+    With a recent update to mail privacy, some email clients, like
+    Apple, no longer report opens accurately. Focusing on clicks is a
+    better strategy.
+
+    Learn more <https://help.kajabi.com/hc/en-us/articles/4407133043099>
+        21% 
+    Clicked
+        0% 
+    Unsubscribed
+
+    Options
+      o Report
+        <https://app.kajabi.com/admin/email_broadcasts/630662/report>
+      o Duplicate
+        <https://app.kajabi.com/admin/email_broadcasts/630662/clone>
+      o Delete <https://app.kajabi.com/admin/email_broadcasts/630662>
+  *
+    /
+
+    /
+    Godteritimen 🍭🍓 starter kl 20
+    <https://app.kajabi.com/admin/email_broadcasts/630579/report>
+
+    Sent March 22, 2020 06:53PM
+
+        5,187 
+    Sends
+        21% 
+    Opened
+    Learn more
+
+    Opened
+
+    With a recent update to mail privacy, some email clients, like
+    Apple, no longer report opens accurately. Focusing on clicks is a
+    better strategy.
+
+    Learn more <https://help.kajabi.com/hc/en-us/articles/4407133043099>
+        1% 
+    Clicked
+        0% 
+    Unsubscribed
+
+    Options
+      o Report
+        <https://app.kajabi.com/admin/email_broadcasts/630579/report>
+      o Duplicate
+        <https://app.kajabi.com/admin/email_broadcasts/630579/clone>
+      o Delete <https://app.kajabi.com/admin/email_broadcasts/630579>
+  *
+    /
+
+    /
+    Morsomt godteriprosjekt du kan gjøre nå - del 2
+    <https://app.kajabi.com/admin/email_broadcasts/629514/report>
+
+    Sent March 21, 2020 09:30PM
+
+        5,194 
+    Sends
+        22% 
+    Opened
+    Learn more
+
+    Opened
+
+    With a recent update to mail privacy, some email clients, like
+    Apple, no longer report opens accurately. Focusing on clicks is a
+    better strategy.
+
+    Learn more <https://help.kajabi.com/hc/en-us/articles/4407133043099>
+        1% 
+    Clicked
+        0% 
+    Unsubscribed
+
+    Options
+      o Report
+        <https://app.kajabi.com/admin/email_broadcasts/629514/report>
+      o Duplicate
+        <https://app.kajabi.com/admin/email_broadcasts/629514/clone>
+      o Delete <https://app.kajabi.com/admin/email_broadcasts/629514>
+  *
+    /
+
+    /
+    Noe du kan lage med ungene nå (kun 2 ingredienser)
+    <https://app.kajabi.com/admin/email_broadcasts/626035/report>
+
+    Sent March 19, 2020 10:27PM
+
+        5,199 
+    Sends
+        35% 
+    Opened
+    Learn more
+
+    Opened
+
+    With a recent update to mail privacy, some email clients, like
+    Apple, no longer report opens accurately. Focusing on clicks is a
+    better strategy.
+
+    Learn more <https://help.kajabi.com/hc/en-us/articles/4407133043099>
+        8% 
+    Clicked
+        0% 
+    Unsubscribed
+
+    Options
+      o Report
+        <https://app.kajabi.com/admin/email_broadcasts/626035/report>
+      o Duplicate
+        <https://app.kajabi.com/admin/email_broadcasts/626035/clone>
+      o Delete <https://app.kajabi.com/admin/email_broadcasts/626035>
+  *
+    /
+
+    /
+    Noen mat-tiltak hjemme nå
+    <https://app.kajabi.com/admin/email_broadcasts/623369/report>
+
+    Sent March 18, 2020 08:54PM
+
+        5,215 
+    Sends
+        34% 
+    Opened
+    Learn more
+
+    Opened
+
+    With a recent update to mail privacy, some email clients, like
+    Apple, no longer report opens accurately. Focusing on clicks is a
+    better strategy.
+
+    Learn more <https://help.kajabi.com/hc/en-us/articles/4407133043099>
+        3% 
+    Clicked
+        0% 
+    Unsubscribed
+
+    Options
+      o Report
+        <https://app.kajabi.com/admin/email_broadcasts/623369/report>
+      o Duplicate
+        <https://app.kajabi.com/admin/email_broadcasts/623369/clone>
+      o Delete <https://app.kajabi.com/admin/email_broadcasts/623369>
+  *
+    /
+
+    /
+    Er du med videre?
+    <https://app.kajabi.com/admin/email_broadcasts/617189/report>
+
+    Sent March 15, 2020 09:28PM
+
+        231 
+    Sends
+        31% 
+    Opened
+    Learn more
+
+    Opened
+
+    With a recent update to mail privacy, some email clients, like
+    Apple, no longer report opens accurately. Focusing on clicks is a
+    better strategy.
+
+    Learn more <https://help.kajabi.com/hc/en-us/articles/4407133043099>
+        10% 
+    Clicked
+        3% 
+    Unsubscribed
+
+    Options
+      o Report
+        <https://app.kajabi.com/admin/email_broadcasts/617189/report>
+      o Duplicate
+        <https://app.kajabi.com/admin/email_broadcasts/617189/clone>
+      o Delete <https://app.kajabi.com/admin/email_broadcasts/617189>
+  *
+    /
+
+    /
+    hva gjør du nå?
+    <https://app.kajabi.com/admin/email_broadcasts/616820/report>
+
+    Sent March 15, 2020 07:46PM
+
+        216 
+    Sends
+        38% 
+    Opened
+    Learn more
+
+    Opened
+
+    With a recent update to mail privacy, some email clients, like
+    Apple, no longer report opens accurately. Focusing on clicks is a
+    better strategy.
+
+    Learn more <https://help.kajabi.com/hc/en-us/articles/4407133043099>
+        13% 
+    Clicked
+        0% 
+    Unsubscribed
+
+    Options
+      o Report
+        <https://app.kajabi.com/admin/email_broadcasts/616820/report>
+      o Duplicate
+        <https://app.kajabi.com/admin/email_broadcasts/616820/clone>
+      o Delete <https://app.kajabi.com/admin/email_broadcasts/616820>
+  *
+    /
+
+    /
+    Du har en MULIGHET - boost deg nå
+    <https://app.kajabi.com/admin/email_broadcasts/616771/report>
+
+    Sent March 15, 2020 07:00PM
+
+        5,217 
+    Sends
+        27% 
+    Opened
+    Learn more
+
+    Opened
+
+    With a recent update to mail privacy, some email clients, like
+    Apple, no longer report opens accurately. Focusing on clicks is a
+    better strategy.
+
+    Learn more <https://help.kajabi.com/hc/en-us/articles/4407133043099>
+        1% 
+    Clicked
+        0% 
+    Unsubscribed
+
+    Options
+      o Report
+        <https://app.kajabi.com/admin/email_broadcasts/616771/report>
+      o Duplicate
+        <https://app.kajabi.com/admin/email_broadcasts/616771/clone>
+      o Delete <https://app.kajabi.com/admin/email_broadcasts/616771>
+  *
+    /
+
+    /
+    Godteri som booster immunforsvaret
+    <https://app.kajabi.com/admin/email_broadcasts/615970/report>
+
+    Sent March 14, 2020 09:51PM
+
+        5,127 
+    Sends
+        27% 
+    Opened
+    Learn more
+
+    Opened
+
+    With a recent update to mail privacy, some email clients, like
+    Apple, no longer report opens accurately. Focusing on clicks is a
+    better strategy.
+
+    Learn more <https://help.kajabi.com/hc/en-us/articles/4407133043099>
+        5% 
+    Clicked
+        0% 
+    Unsubscribed
+
+    Options
+      o Report
+        <https://app.kajabi.com/admin/email_broadcasts/615970/report>
+      o Duplicate
+        <https://app.kajabi.com/admin/email_broadcasts/615970/clone>
+      o Delete <https://app.kajabi.com/admin/email_broadcasts/615970>
+  *
+    /
+
+    /
+    Husk dette nå ❤️ oppskrift på påskemarsipan
+    <https://app.kajabi.com/admin/email_broadcasts/614661/report>
+
+    Sent March 13, 2020 09:14PM
+
+        5,053 
+    Sends
+        27% 
+    Opened
+    Learn more
+
+    Opened
+
+    With a recent update to mail privacy, some email clients, like
+    Apple, no longer report opens accurately. Focusing on clicks is a
+    better strategy.
+
+    Learn more <https://help.kajabi.com/hc/en-us/articles/4407133043099>
+        0% 
+    Clicked
+        0% 
+    Unsubscribed
+
+    Options
+      o Report
+        <https://app.kajabi.com/admin/email_broadcasts/614661/report>
+      o Duplicate
+        <https://app.kajabi.com/admin/email_broadcasts/614661/clone>
+      o Delete <https://app.kajabi.com/admin/email_broadcasts/614661>
+  *
+    /
+
+    /
+    Fylle påskeegget med sunt snop
+    <https://app.kajabi.com/admin/email_broadcasts/613880/report>
+
+    Sent March 13, 2020 01:41PM
+
+        5,060 
+    Sends
+        23% 
+    Opened
+    Learn more
+
+    Opened
+
+    With a recent update to mail privacy, some email clients, like
+    Apple, no longer report opens accurately. Focusing on clicks is a
+    better strategy.
+
+    Learn more <https://help.kajabi.com/hc/en-us/articles/4407133043099>
+        1% 
+    Clicked
+        0% 
+    Unsubscribed
+
+    Options
+      o Report
+        <https://app.kajabi.com/admin/email_broadcasts/613880/report>
+      o Duplicate
+        <https://app.kajabi.com/admin/email_broadcasts/613880/clone>
+      o Delete <https://app.kajabi.com/admin/email_broadcasts/613880>
+  *
+    /
+
+    /
+    En ny mulighet - i disse tider
+    <https://app.kajabi.com/admin/email_broadcasts/612733/report>
+
+    Sent March 12, 2020 08:02PM
+
+        5,078 
+    Sends
+        22% 
+    Opened
+    Learn more
+
+    Opened
+
+    With a recent update to mail privacy, some email clients, like
+    Apple, no longer report opens accurately. Focusing on clicks is a
+    better strategy.
+
+    Learn more <https://help.kajabi.com/hc/en-us/articles/4407133043099>
+        1% 
+    Clicked
+        0% 
+    Unsubscribed
+
+    Options
+      o Report
+        <https://app.kajabi.com/admin/email_broadcasts/612733/report>
+      o Duplicate
+        <https://app.kajabi.com/admin/email_broadcasts/612733/clone>
+      o Delete <https://app.kajabi.com/admin/email_broadcasts/612733>
+  *
+    /
+
+    /
+    Er du med videre?
+    <https://app.kajabi.com/admin/email_broadcasts/609485/report>
+
+    Sent March 10, 2020 09:30PM
+
+        78 
+    Sends
+        56% 
+    Opened
+    Learn more
+
+    Opened
+
+    With a recent update to mail privacy, some email clients, like
+    Apple, no longer report opens accurately. Focusing on clicks is a
+    better strategy.
+
+    Learn more <https://help.kajabi.com/hc/en-us/articles/4407133043099>
+        14% 
+    Clicked
+        1% 
+    Unsubscribed
+
+    Options
+      o Report
+        <https://app.kajabi.com/admin/email_broadcasts/609485/report>
+      o Duplicate
+        <https://app.kajabi.com/admin/email_broadcasts/609485/clone>
+      o Delete <https://app.kajabi.com/admin/email_broadcasts/609485>
+  *
+    /
+
+    /
+    hva gjør du nå?
+    <https://app.kajabi.com/admin/email_broadcasts/608982/report>
+
+    Sent March 10, 2020 07:45PM
+
+        79 
+    Sends
+        57% 
+    Opened
+    Learn more
+
+    Opened
+
+    With a recent update to mail privacy, some email clients, like
+    Apple, no longer report opens accurately. Focusing on clicks is a
+    better strategy.
+
+    Learn more <https://help.kajabi.com/hc/en-us/articles/4407133043099>
+        24% 
+    Clicked
+        1% 
+    Unsubscribed
+
+    Options
+      o Report
+        <https://app.kajabi.com/admin/email_broadcasts/608982/report>
+      o Duplicate
+        <https://app.kajabi.com/admin/email_broadcasts/608982/clone>
+      o Delete <https://app.kajabi.com/admin/email_broadcasts/608982>
+  *
+    /
+
+    /
+    de forsvant på 30 minutter
+    <https://app.kajabi.com/admin/email_broadcasts/608572/report>
+
+    Sent March 10, 2020 07:04PM
+
+        5,082 
+    Sends
+        24% 
+    Opened
+    Learn more
+
+    Opened
+
+    With a recent update to mail privacy, some email clients, like
+    Apple, no longer report opens accurately. Focusing on clicks is a
+    better strategy.
+
+    Learn more <https://help.kajabi.com/hc/en-us/articles/4407133043099>
+        1% 
+    Clicked
+        0% 
+    Unsubscribed
+
+    Options
+      o Report
+        <https://app.kajabi.com/admin/email_broadcasts/608572/report>
+      o Duplicate
+        <https://app.kajabi.com/admin/email_broadcasts/608572/clone>
+      o Delete <https://app.kajabi.com/admin/email_broadcasts/608572>
+  *
+    /
+
+    /
+    [Webinar] I kveld kickstarter vi
+    <https://app.kajabi.com/admin/email_broadcasts/608557/report>
+
+    Sent March 10, 2020 01:47PM
+
+        74 
+    Sends
+        57% 
+    Opened
+    Learn more
+
+    Opened
+
+    With a recent update to mail privacy, some email clients, like
+    Apple, no longer report opens accurately. Focusing on clicks is a
+    better strategy.
+
+    Learn more <https://help.kajabi.com/hc/en-us/articles/4407133043099>
+        24% 
+    Clicked
+        1% 
+    Unsubscribed
+
+    Options
+      o Report
+        <https://app.kajabi.com/admin/email_broadcasts/608557/report>
+      o Duplicate
+        <https://app.kajabi.com/admin/email_broadcasts/608557/clone>
+      o Delete <https://app.kajabi.com/admin/email_broadcasts/608557>
+  *
+    /
+
+    /
+    Kommer du?
+    <https://app.kajabi.com/admin/email_broadcasts/604740/report>
+
+    Sent March 08, 2020 06:42PM
+
+        5,089 
+    Sends
+        22% 
+    Opened
+    Learn more
+
+    Opened
+
+    With a recent update to mail privacy, some email clients, like
+    Apple, no longer report opens accurately. Focusing on clicks is a
+    better strategy.
+
+    Learn more <https://help.kajabi.com/hc/en-us/articles/4407133043099>
+        1% 
+    Clicked
+        0% 
+    Unsubscribed
+
+    Options
+      o Report
+        <https://app.kajabi.com/admin/email_broadcasts/604740/report>
+      o Duplicate
+        <https://app.kajabi.com/admin/email_broadcasts/604740/clone>
+      o Delete <https://app.kajabi.com/admin/email_broadcasts/604740>
+  *
+    /
+
+    /
+    Fra komplisert til enkelt
+    <https://app.kajabi.com/admin/email_broadcasts/602415/report>
+
+    Sent March 05, 2020 10:10PM
+
+        5,106 
+    Sends
+        21% 
+    Opened
+    Learn more
+
+    Opened
+
+    With a recent update to mail privacy, some email clients, like
+    Apple, no longer report opens accurately. Focusing on clicks is a
+    better strategy.
+
+    Learn more <https://help.kajabi.com/hc/en-us/articles/4407133043099>
+        1% 
+    Clicked
+        0% 
+    Unsubscribed
+
+    Options
+      o Report
+        <https://app.kajabi.com/admin/email_broadcasts/602415/report>
+      o Duplicate
+        <https://app.kajabi.com/admin/email_broadcasts/602415/clone>
+      o Delete <https://app.kajabi.com/admin/email_broadcasts/602415>
+  *
+    /
+
+    /
+    Dette endret ALT
+    <https://app.kajabi.com/admin/email_broadcasts/600105/report>
+
+    Sent March 04, 2020 07:33PM
+
+        5,119 
+    Sends
+        21% 
+    Opened
+    Learn more
+
+    Opened
+
+    With a recent update to mail privacy, some email clients, like
+    Apple, no longer report opens accurately. Focusing on clicks is a
+    better strategy.
+
+    Learn more <https://help.kajabi.com/hc/en-us/articles/4407133043099>
+        1% 
+    Clicked
+        0% 
+    Unsubscribed
+
+    Options
+      o Report
+        <https://app.kajabi.com/admin/email_broadcasts/600105/report>
+      o Duplicate
+        <https://app.kajabi.com/admin/email_broadcasts/600105/clone>
+      o Delete <https://app.kajabi.com/admin/email_broadcasts/600105>
+
+
+  New email template
+
+Close Modal
+
+Fill out the template name and description to easily identify the
+version or use cases.
+
+Template Name
+
+Description
+
+0/95 characters
+Cancel
+
+Create
+
+Previous
+<https://app.kajabi.com/admin/sites/20457/email_campaigns?by_status=sent&page=11> Next <https://app.kajabi.com/admin/sites/20457/email_campaigns?by_status=sent&page=13>
+
+/help_outline/ Learn more about Email Campaigns
+<https://help.kajabi.com/hc/en-us/articles/360036990014>
+
+
+  New Email Campaign
+
+Close Modal
+
+Select the type of campaign you would like to create and give it a title.
+
+/
+
+/
+
+
+        Email Broadcast
+
+Send a single email to promote a product, share news, or stay connected.
+
+<#email-campaign-selection-option-broadcast>
+/
+
+/
+
+
+        Email Sequence
+
+Send a series of emails that can be triggered by an Automation.
+
+<#email-campaign-selection-option-sequence>
+
+Cancel
+
+Continue
+
+Cancel
+
+Continue
+
+Title
+
+Cancel
+
+Continue
+
+
+  We’re here to help
+
+
+    Have a question?
+
+Get instant answers for common topics in our Help Center.
+
+Visit Help Center <https://kaja.bi/help-center>
+
+
+  Contact Support
+
+If you are unable to find the answers you need feel free to reach out.
+
+Send us an email <https://kaja.bi/support>
+
+
+  Join a live webinar
+
+We offer daily educational and Q&A sessions that can help you master Kajabi.
+
+View schedule
+<https://kaja.bi/kajabisolutionswebinar?kjbuaid=19216&kjbue=christine.bieker%40gmail.com&kjbun=Christine+Bieker>
+
+
+  Live chat
+
+We‘re here for you, whenever you need us. Start a live chat with our
+team anytime.
+
+Live Chat <#>
+
+
+  Get more with Kajabi Access
+
+Access offers new resources, exclusive services, and one-on-one guidance.
+
+Learn more <https://app.kajabi.com/admin/settings/billing>
+
+
+  // Help us improve Kajabi
+
+We’re always working to make Kajabi exactly what you need for your
+business. Tell us what features you love, or what features we could
+improve to enhance your experience.
+
+Share your feedback <#>
+
+/done/
+/done/
+/done/
+/done/
+
+Loading...
+
+/done/
