@@ -12,10 +12,13 @@ import codecs
 
 emails = 25
 
+with open('goodlines.txt') as f:
+    login = list(f)
+
 scopes = ['https://www.googleapis.com/auth/spreadsheets.readonly','https://www.googleapis.com/auth/drive']
 
 range = 'A2:M'
-spreadsheet_id = '1RBC1Kry379x4EbQXQbnGsrunsrC2j5RKX24MBqZtdMk'
+spreadsheet_id = login[2]
 
 def main():
     creds = None
