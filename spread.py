@@ -12,7 +12,7 @@ import codecs
 
 emails = 25
 
-with open('goodlines.txt') as f:
+with open('login.txt') as f:
     login = list(f)
 
 scopes = ['https://www.googleapis.com/auth/spreadsheets.readonly','https://www.googleapis.com/auth/drive']
