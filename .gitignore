@@ -1,6 +1,6 @@
 *.txt
 *.log
 *.json
-*.DS_Store
 
 parse/target/
+links/target/
