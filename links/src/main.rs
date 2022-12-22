@@ -26,6 +26,8 @@ fn write_id(overview: String, data_path: &str) -> std::io::Result<()> {
 
     let caps = id.captures_iter(&overview);
     let mut current;
+
+    let mut i = 0;
     for mat in caps {
         current = String::from(mat.get(1).map_or("", |m| m.as_str())).to_string() + "\n";
         file.write(current.as_bytes()).expect("failed to write");
