@@ -1,3 +1,4 @@
 *.txt
 *.log
 *.json
+*.DS_STORE
