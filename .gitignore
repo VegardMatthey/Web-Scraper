@@ -2,6 +2,6 @@
 *.log
 *.json
 
-/parse/target/
-/links/target/
-/data/
+~/repo/web/parse/target/
+~/repo/web/links/target/
+~/repo/web/data/
