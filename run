@@ -1,0 +1,14 @@
+#!/bin/sh
+rm ~/repo/web/data/*
+curl -b cookies.txt -o ~/repo/web/data/overview "https://app.kajabi.com/admin/sites/20457/email_campaigns?by_status=sent&page=1"
+cd ~/repo/web/links
+cargo run --release -q
+cd ..
+python3 web.py
+mv ~/Downloads/html* ~/repo/web/data
+mv ~/Downloads/overview* ~/repo/web/data
+cd ~/repo/web/parse/
+cargo run --release -q
+cd ..
+python3 spread.py
+rm ~/repo/web/parse/data/*
