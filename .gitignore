@@ -2,6 +2,6 @@
 *.log
 *.json
 
-parse/target/
-links/target/
-data/
+/parse/target/
+/links/target/
+/data/
