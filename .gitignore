@@ -3,4 +3,4 @@
 *.json
 
 **/target
-**/data
+data/
