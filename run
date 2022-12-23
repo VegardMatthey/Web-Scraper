@@ -4,11 +4,13 @@ curl -b cookies.txt -o ~/repo/web/data/overview "https://app.kajabi.com/admin/si
 cd ~/repo/web/links
 cargo run --release -q
 cd ..
-python3 web.py
-mv ~/Downloads/html* ~/repo/web/data
-mv ~/Downloads/overview* ~/repo/web/data
-cd ~/repo/web/parse/
-cargo run --release -q
-cd ..
-python3 spread.py
-rm ~/repo/web/parse/data/*
+if awk 'NR == 3 && /0/ { found = 1 } END { exit !found }' <<< "$(command)" ; then
+  python3 web.py
+  mv ~/Downloads/html* ~/repo/web/data
+  mv ~/Downloads/overview* ~/repo/web/data
+  cd ~/repo/web/parse/
+  cargo run --release -q
+  cd ..
+  python3 spread.py
+fi
+rm ~/repo/web/data/*
